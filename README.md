@@ -1,1 +1,1 @@
-# webshare
+# Next.js Boilerplate
